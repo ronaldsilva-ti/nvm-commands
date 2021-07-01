@@ -17,3 +17,4 @@ nvm alias default 6.9.2
 ### - switch version of node
 
 nvm use 6.9.1
+nvm -v
